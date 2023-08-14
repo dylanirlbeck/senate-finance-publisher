@@ -1,0 +1,2 @@
+# Ignore the local cache -- this is unique to the machine.
+content.json

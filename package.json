@@ -1,0 +1,16 @@
+{
+  "name": "finance-press-publisher",
+  "version": "1.0.0",
+  "description": "A utility that computes whether the Senate Finance Committee has published a new press release.",
+  "main": "index.ts",
+  "author": "Dylan Irlbeck",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cheerio": "^0.22.31",
+    "@types/lodash": "^4.14.197",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "lodash": "^4.17.21",
+    "typescript": "^5.1.6"
+  }
+}
